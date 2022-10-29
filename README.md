@@ -6,7 +6,7 @@
 
 <div align="center">
 <p>
-<img src="trackers/strong_sort/results/speed.PNG"/> 
+<img src="trackers/strong_sort/results/speed.PNG" width = 700 height = 500/> 
 </p>
 <br>
 </div>
