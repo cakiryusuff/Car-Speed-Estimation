@@ -30,7 +30,7 @@ By default the tracker tracks all MS COCO classes.
 If you only want to track cars
 
 ```bash
-python Speed-Estimation.py --classes 2 #only cars
+python Speed-Estimation.py --source traffic_Trim.mp4 --classes 2  #only cars
 ```
 
 [Here](https://tech.amikelive.com/node-718/what-object-categories-labels-are-in-coco-dataset/) is a list of all the possible objects that a Yolov5 model trained on MS COCO can detect. Notice that the indexing for the classes in this repo starts at zero.
