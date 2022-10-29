@@ -6,7 +6,7 @@
 
 <div align="center">
 <p>
-<img src="trackers/strong_sort/results/speed.png" width="400"/> 
+<img src="trackers/strong_sort/results/speed.jpg"/> 
 </p>
 <br>
 </div>
