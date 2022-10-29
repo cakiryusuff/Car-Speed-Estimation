@@ -1,4 +1,4 @@
-# Yolov5 + StrongSORT with OSNet
+# Speed estimation with Yolov5 + StrongSORT
 
 
 
@@ -6,16 +6,9 @@
 
 <div align="center">
 <p>
-<img src="trackers/strong_sort/results/output_th025.gif" width="400"/> 
+<img src="trackers/strong_sort/results/speed.png" width="400"/> 
 </p>
 <br>
-<div>
-<a href="https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch/actions"><img src="https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch/workflows/CI%20CPU%20testing/badge.svg" alt="CI CPU testing"></a>
-<br>  
-<a href="https://colab.research.google.com/drive/18nIqkBr68TkK8dHdarxTco6svHUJGggY?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
-  
-</div>
-
 </div>
 
 
